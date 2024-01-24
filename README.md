@@ -1,10 +1,11 @@
 # DEVELOPER PORTFOLIO
 
-A portfolio website template for campers
+my portfolio website
 
-![jane-doe](jane-shot.png)
 
 ## Author
+
+###Credits to:
 
 [@koladechris](https://www.twitter.com/koladechris)
 
