@@ -5,7 +5,7 @@ my portfolio website
 
 ## Author
 
-###Credits to:
+### Credits to:
 
 [@koladechris](https://www.twitter.com/koladechris)
 
